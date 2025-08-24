@@ -1,0 +1,20 @@
+{
+  "name": "masterclass",
+  "version": "1.0.0",
+  "description": "Node JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mix-4dev/Masterclass.git"
+  },
+  "keywords": [],
+  "author": "Mix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mix-4dev/Masterclass/issues"
+  },
+  "homepage": "https://github.com/Mix-4dev/Masterclass#readme"
+}
